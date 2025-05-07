@@ -1,0 +1,24 @@
+{
+    "name": "AuraGem #011",
+    "description": "A unique Cusion cut gemstone in Citrine color.",
+    "attributes": [
+        {
+            "trait_type": "Cut",
+            "value": "Cusion"
+        },
+        {
+            "trait_type": "Color",
+            "value": "Citrine"
+        },
+        {
+            "trait_type": "Carat",
+            "value": 10
+        },
+        {
+            "trait_type": "Clarity",
+            "value": "Flawless"
+        }
+    ],
+    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1746094889/AuraGem/011_im1mma.png",
+    "animation_url": "https://gemfi-three-js.vercel.app/?modelIndex=10&color=%23E4A300"
+} 
