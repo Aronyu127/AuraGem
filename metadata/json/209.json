@@ -1,0 +1,28 @@
+{
+    "name": "AuraGem #209",
+    "description": "A unique Asscher cut gemstone in Topaz color.",
+    "attributes": [
+        {
+            "trait_type": "Cut",
+            "value": "Asscher"
+        },
+        {
+            "trait_type": "Color",
+            "value": "Topaz"
+        },
+        {
+            "trait_type": "Carat",
+            "value": 10
+        },
+        {
+            "trait_type": "Clarity",
+            "value": "Flawless"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "2"
+        }
+    ],
+    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1746094891/AuraGem/209_placeholder.png",
+    "animation_url": "https://gemfi-three-js.vercel.app/?modelIndex=8&color=%23E4A300"
+}

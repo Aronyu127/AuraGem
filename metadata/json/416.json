@@ -1,0 +1,28 @@
+{
+    "name": "AuraGem #416",
+    "description": "A unique Oval cut gemstone in Emerald color.",
+    "attributes": [
+        {
+            "trait_type": "Cut",
+            "value": "Oval"
+        },
+        {
+            "trait_type": "Color",
+            "value": "Emerald"
+        },
+        {
+            "trait_type": "Carat",
+            "value": 10
+        },
+        {
+            "trait_type": "Clarity",
+            "value": "Flawless"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "4"
+        }
+    ],
+    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1746094891/AuraGem/416_placeholder.png",
+    "animation_url": "https://gemfi-three-js.vercel.app/?modelIndex=3&color=%2350C878"
+}
