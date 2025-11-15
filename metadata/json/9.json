@@ -1,6 +1,6 @@
 {
     "name": "AuraGem #009",
-    "description": "A unique Asscher cut gemstone in Citrine color.",
+    "description": "A unique Asscher cut gemstone in Topaz color.",
     "attributes": [
         {
             "trait_type": "Cut",
@@ -8,7 +8,7 @@
         },
         {
             "trait_type": "Color",
-            "value": "Citrine"
+            "value": "Topaz"
         },
         {
             "trait_type": "Carat",
@@ -23,6 +23,6 @@
             "value": "0"
         }
     ],
-    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1746094889/AuraGem/009_w9kdwo.png",
+    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1763203320/AuraGem/009_00_ihz3wy.png",
     "animation_url": "https://gemfi-three-js.vercel.app/?modelIndex=8&color=%23E4A300"
-} 
+}

@@ -1,6 +1,6 @@
 {
     "name": "AuraGem #301",
-    "description": "A unique Brilliant cut gemstone in Ruby color.",
+    "description": "A unique RoundBrilliant cut gemstone in Ruby color.",
     "attributes": [
         {
             "trait_type": "Cut",
@@ -23,6 +23,6 @@
             "value": "3"
         }
     ],
-    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1746094891/AuraGem/301_placeholder.png",
+    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1762955637/AuraGem/001_03_mjtlyh.png",
     "animation_url": "https://gemfi-three-js.vercel.app/?modelIndex=0&color=%23E0115F"
 }

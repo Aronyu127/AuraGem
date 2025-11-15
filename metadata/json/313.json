@@ -1,6 +1,6 @@
 {
     "name": "AuraGem #313",
-    "description": "A unique Brilliant cut gemstone in Emerald color.",
+    "description": "A unique RoundBrilliant cut gemstone in Emerald color.",
     "attributes": [
         {
             "trait_type": "Cut",
@@ -23,6 +23,6 @@
             "value": "3"
         }
     ],
-    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1746094891/AuraGem/313_placeholder.png",
-    "animation_url": "https://gemfi-three-js.vercel.app/?modelIndex=0&color=%2350C878"
+    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1763203682/AuraGem/013_03_ptws8r.png",
+    "animation_url": "https://gemfi-three-js.vercel.app/?modelIndex=0&color=%2350C881"
 }

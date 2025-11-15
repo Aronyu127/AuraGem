@@ -1,6 +1,6 @@
 {
     "name": "AuraGem #011",
-    "description": "A unique Cusion cut gemstone in Citrine color.",
+    "description": "A unique Cusion cut gemstone in Topaz color.",
     "attributes": [
         {
             "trait_type": "Cut",
@@ -8,7 +8,7 @@
         },
         {
             "trait_type": "Color",
-            "value": "Citrine"
+            "value": "Topaz"
         },
         {
             "trait_type": "Carat",
@@ -23,6 +23,6 @@
             "value": "0"
         }
     ],
-    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1746094889/AuraGem/011_im1mma.png",
+    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1763203532/AuraGem/011_00_iytvpx.png",
     "animation_url": "https://gemfi-three-js.vercel.app/?modelIndex=10&color=%23E4A300"
-} 
+}

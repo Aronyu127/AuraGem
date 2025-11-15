@@ -4,7 +4,7 @@
     "attributes": [
         {
             "trait_type": "Cut",
-            "value": "RoundBrilliant"
+            "value": "Brilliant"
         },
         {
             "trait_type": "Color",
@@ -23,6 +23,6 @@
             "value": "0"
         }
     ],
-    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1746094888/AuraGem/013_mffmil.png",
+    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1763203680/AuraGem/013_00_fzyp23.png",
     "animation_url": "https://gemfi-three-js.vercel.app/?modelIndex=0&color=%2350C878"
-} 
+}

@@ -1,6 +1,6 @@
 {
     "name": "AuraGem #008",
-    "description": "A unique Heart cut gemstone in Citrine color.",
+    "description": "A unique Heart cut gemstone in Topaz color.",
     "attributes": [
         {
             "trait_type": "Cut",
@@ -8,7 +8,7 @@
         },
         {
             "trait_type": "Color",
-            "value": "Citrine"
+            "value": "Topaz"
         },
         {
             "trait_type": "Carat",
@@ -23,6 +23,6 @@
             "value": "0"
         }
     ],
-    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1746094889/AuraGem/008_bmav2v.png",
+    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1763202657/AuraGem/008_00_wqy2tt.png",
     "animation_url": "https://gemfi-three-js.vercel.app/?modelIndex=7&color=%23E4A300"
-} 
+}
