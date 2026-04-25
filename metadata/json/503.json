@@ -3,26 +3,25 @@
     "description": "A unique Emerald cut gemstone in Ruby color.",
     "attributes": [
         {
-            "trait_type": "Cut",
-            "value": "Emerald"
+            "trait_type": "Category",
+            "value": "Necklace"
         },
         {
-            "trait_type": "Color",
+            "trait_type": "Gem",
             "value": "Ruby"
         },
         {
-            "trait_type": "Carat",
-            "value": 10
+            "trait_type": "Color",
+            "value": "#E0115F"
         },
         {
-            "trait_type": "Clarity",
-            "value": "Flawless"
+            "trait_type": "Cut",
+            "value": "Emerald"
         },
         {
             "trait_type": "Rarity",
             "value": "5"
         }
     ],
-    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1762962304/AuraGem/003_05_pk9vwk.png",
-    "animation_url": "https://gemfi-three-js.vercel.app/?modelIndex=2&color=%23E0115F"
+    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1767715845/AuraGem_v3/018_03_mc5sqp.png"
 }

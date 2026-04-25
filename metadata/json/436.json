@@ -1,0 +1,27 @@
+{
+    "name": "AuraGem #436",
+    "description": "A unique Trilliant cut gemstone in Sapphire color.",
+    "attributes": [
+        {
+            "trait_type": "Category",
+            "value": "Necklace"
+        },
+        {
+            "trait_type": "Gem",
+            "value": "Sapphire"
+        },
+        {
+            "trait_type": "Color",
+            "value": "#0F52BA"
+        },
+        {
+            "trait_type": "Cut",
+            "value": "Trilliant"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "4"
+        }
+    ],
+    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1767715837/AuraGem_v3/018_00_nruudl.png"
+}

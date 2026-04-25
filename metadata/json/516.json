@@ -3,26 +3,25 @@
     "description": "A unique Oval cut gemstone in Emerald color.",
     "attributes": [
         {
-            "trait_type": "Cut",
-            "value": "Oval"
+            "trait_type": "Category",
+            "value": "Ring"
         },
         {
-            "trait_type": "Color",
+            "trait_type": "Gem",
             "value": "Emerald"
         },
         {
-            "trait_type": "Carat",
-            "value": 10
+            "trait_type": "Color",
+            "value": "#50C878"
         },
         {
-            "trait_type": "Clarity",
-            "value": "Flawless"
+            "trait_type": "Cut",
+            "value": "Oval"
         },
         {
             "trait_type": "Rarity",
             "value": "5"
         }
     ],
-    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1763203848/AuraGem/016_05_uozztp.png",
-    "animation_url": "https://gemfi-three-js.vercel.app/?modelIndex=3&color=%2350C883"
+    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1767715881/AuraGem_v3/020_02_vzlncq.png"
 }

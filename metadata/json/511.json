@@ -3,26 +3,25 @@
     "description": "A unique Cusion cut gemstone in Topaz color.",
     "attributes": [
         {
-            "trait_type": "Cut",
-            "value": "Cusion"
+            "trait_type": "Category",
+            "value": "Earrings"
         },
         {
-            "trait_type": "Color",
+            "trait_type": "Gem",
             "value": "Topaz"
         },
         {
-            "trait_type": "Carat",
-            "value": 10
+            "trait_type": "Color",
+            "value": "#E4A300"
         },
         {
-            "trait_type": "Clarity",
-            "value": "Flawless"
+            "trait_type": "Cut",
+            "value": "Cusion"
         },
         {
             "trait_type": "Rarity",
             "value": "5"
         }
     ],
-    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1763203538/AuraGem/011_05_k1mm4w.png",
-    "animation_url": "https://gemfi-three-js.vercel.app/?modelIndex=10&color=%23E4A305"
+    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1767715865/AuraGem_v3/019_04_nkccbs.png"
 }

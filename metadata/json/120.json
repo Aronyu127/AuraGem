@@ -3,26 +3,25 @@
     "description": "A unique Heart cut gemstone in Sapphire color.",
     "attributes": [
         {
-            "trait_type": "Cut",
-            "value": "Heart"
+            "trait_type": "Category",
+            "value": "Earrings"
         },
         {
-            "trait_type": "Color",
+            "trait_type": "Gem",
             "value": "Sapphire"
         },
         {
-            "trait_type": "Carat",
-            "value": 10
+            "trait_type": "Color",
+            "value": "#0F52BA"
         },
         {
-            "trait_type": "Clarity",
-            "value": "Flawless"
+            "trait_type": "Cut",
+            "value": "Heart"
         },
         {
             "trait_type": "Rarity",
             "value": "1"
         }
     ],
-    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1763208358/AuraGem/020_01_zoq7mo.png",
-    "animation_url": "https://gemfi-three-js.vercel.app/?modelIndex=7&color=%230F52BA"
+    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1767715634/AuraGem_v3/007_01_pixr0p.png"
 }

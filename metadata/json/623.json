@@ -3,26 +3,25 @@
     "description": "A unique Cusion cut gemstone in Sapphire color.",
     "attributes": [
         {
-            "trait_type": "Cut",
-            "value": "Cusion"
+            "trait_type": "Category",
+            "value": "Earrings"
         },
         {
-            "trait_type": "Color",
+            "trait_type": "Gem",
             "value": "Sapphire"
         },
         {
-            "trait_type": "Carat",
-            "value": 10
+            "trait_type": "Color",
+            "value": "#0F52BA"
         },
         {
-            "trait_type": "Clarity",
-            "value": "Flawless"
+            "trait_type": "Cut",
+            "value": "Cusion"
         },
         {
             "trait_type": "Rarity",
             "value": "6"
         }
     ],
-    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1763208515/AuraGem/023_06_bl9rrf.png",
-    "animation_url": "https://gemfi-three-js.vercel.app/?modelIndex=10&color=%230F52BA"
+    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1767715995/AuraGem_v3/024_05_nzxrya.png"
 }

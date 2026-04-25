@@ -3,26 +3,25 @@
     "description": "A unique Radiant cut gemstone in Topaz color.",
     "attributes": [
         {
-            "trait_type": "Cut",
-            "value": "Radiant"
+            "trait_type": "Category",
+            "value": "Ring"
         },
         {
-            "trait_type": "Color",
+            "trait_type": "Gem",
             "value": "Topaz"
         },
         {
-            "trait_type": "Carat",
-            "value": 10
+            "trait_type": "Color",
+            "value": "#E4A300"
         },
         {
-            "trait_type": "Clarity",
-            "value": "Flawless"
+            "trait_type": "Cut",
+            "value": "Radiant"
         },
         {
             "trait_type": "Rarity",
             "value": "0"
         }
     ],
-    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1763203482/AuraGem/010_00_i9ck1m.png",
-    "animation_url": "https://gemfi-three-js.vercel.app/?modelIndex=9&color=%23E4A300"
+    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1767715584/AuraGem_v3/002_02_it5beb.png"
 }

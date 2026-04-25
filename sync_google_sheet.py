@@ -31,15 +31,13 @@ DEFAULT_OUTPUT_DIR = SCRIPT_DIR / "metadata" / "json"
 # Required CSV columns (filter out extra columns)
 REQUIRED_COLUMNS = [
     'ID',
-    '名稱',
+    'Name',
     'Category',
+    'Gem',
     'Color',
     'Cut',
-    'Carat',
-    'Clarity',
     'Rarity',
-    'image',
-    'animation_url'
+    'Image',
 ]
 
 
@@ -175,66 +173,48 @@ def csv_to_json(csv_file, output_dir):
                     continue
                 
                 try:
-                    # Only extract required columns, ignore extra columns
                     gem_id = row.get('ID', '').strip()
-                    name = row.get('名稱', '').strip()
+                    name = row.get('Name', '').strip()
                     category = row.get('Category', '').strip()
-                    color_code = row.get('Color', '').strip()
+                    gem = row.get('Gem', '').strip()
+                    color_hex = row.get('Color', '').strip()
                     cut = row.get('Cut', '').strip()
-                    carat = row.get('Carat', '').strip()
-                    clarity = row.get('Clarity', '').strip()
                     rarity = row.get('Rarity', '').strip()
-                    image = row.get('image', '').strip()
-                    animation_url = row.get('animation_url', '').strip()
+                    image = row.get('Image', '').strip()
                     
-                    # Use Category as color name (e.g., "Ruby"), Color column is the hex code
-                    color_name = category if category else color_code
-                    
-                    # Validate required fields
-                    if not all([name, color_name, cut, carat, clarity, rarity, image, animation_url]):
+                    if not all([name, category, gem, color_hex, cut, rarity, image]):
                         print(f"⚠ Skipping row {gem_id}: Missing required fields")
                         skipped_count += 1
                         continue
                     
-                    # Convert carat to integer
-                    try:
-                        carat_value = int(carat)
-                    except ValueError:
-                        print(f"⚠ Skipping row {gem_id}: Invalid carat value '{carat}'")
-                        skipped_count += 1
-                        continue
+                    description = generate_description(cut, gem)
                     
-                    # Generate description using color name (Category)
-                    description = generate_description(cut, color_name)
-                    
-                    # Build JSON structure
                     json_data = {
                         "name": name,
                         "description": description,
                         "attributes": [
                             {
-                                "trait_type": "Cut",
-                                "value": cut
+                                "trait_type": "Category",
+                                "value": category
+                            },
+                            {
+                                "trait_type": "Gem",
+                                "value": gem
                             },
                             {
                                 "trait_type": "Color",
-                                "value": color_name
+                                "value": color_hex
                             },
                             {
-                                "trait_type": "Carat",
-                                "value": carat_value
-                            },
-                            {
-                                "trait_type": "Clarity",
-                                "value": clarity
+                                "trait_type": "Cut",
+                                "value": cut
                             },
                             {
                                 "trait_type": "Rarity",
                                 "value": rarity
                             }
                         ],
-                        "image": image,
-                        "animation_url": animation_url
+                        "image": image
                     }
                     
                     # Write JSON file

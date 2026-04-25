@@ -3,26 +3,25 @@
     "description": "A unique Oval cut gemstone in Ruby color.",
     "attributes": [
         {
-            "trait_type": "Cut",
-            "value": "Oval"
+            "trait_type": "Category",
+            "value": "Ring"
         },
         {
-            "trait_type": "Color",
+            "trait_type": "Gem",
             "value": "Ruby"
         },
         {
-            "trait_type": "Carat",
-            "value": 10
+            "trait_type": "Color",
+            "value": "#E0115F"
         },
         {
-            "trait_type": "Clarity",
-            "value": "Flawless"
+            "trait_type": "Cut",
+            "value": "Oval"
         },
         {
             "trait_type": "Rarity",
             "value": "3"
         }
     ],
-    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1763044192/AuraGem/004_03_fzhigg.png",
-    "animation_url": "https://gemfi-three-js.vercel.app/?modelIndex=3&color=%23E0115F"
+    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1767715720/AuraGem_v3/011_05_qnwfc1.png"
 }

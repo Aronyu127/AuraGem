@@ -3,26 +3,25 @@
     "description": "A unique Baguetee cut gemstone in Ruby color.",
     "attributes": [
         {
-            "trait_type": "Cut",
-            "value": "Baguetee"
+            "trait_type": "Category",
+            "value": "Earrings"
         },
         {
-            "trait_type": "Color",
+            "trait_type": "Gem",
             "value": "Ruby"
         },
         {
-            "trait_type": "Carat",
-            "value": 10
+            "trait_type": "Color",
+            "value": "#E0115F"
         },
         {
-            "trait_type": "Clarity",
-            "value": "Flawless"
+            "trait_type": "Cut",
+            "value": "Baguetee"
         },
         {
             "trait_type": "Rarity",
             "value": "1"
         }
     ],
-    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1763045065/AuraGem/005_01_yw6j4k.png",
-    "animation_url": "https://gemfi-three-js.vercel.app/?modelIndex=4&color=%23E0115F"
+    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1769092441/AuraGem_v3/005_00_z919zs.png"
 }

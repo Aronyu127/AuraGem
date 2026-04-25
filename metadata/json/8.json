@@ -3,26 +3,25 @@
     "description": "A unique Heart cut gemstone in Topaz color.",
     "attributes": [
         {
-            "trait_type": "Cut",
-            "value": "Heart"
+            "trait_type": "Category",
+            "value": "Earrings"
         },
         {
-            "trait_type": "Color",
+            "trait_type": "Gem",
             "value": "Topaz"
         },
         {
-            "trait_type": "Carat",
-            "value": 10
+            "trait_type": "Color",
+            "value": "#E4A300"
         },
         {
-            "trait_type": "Clarity",
-            "value": "Flawless"
+            "trait_type": "Cut",
+            "value": "Heart"
         },
         {
             "trait_type": "Rarity",
             "value": "0"
         }
     ],
-    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1763202657/AuraGem/008_00_wqy2tt.png",
-    "animation_url": "https://gemfi-three-js.vercel.app/?modelIndex=7&color=%23E4A300"
+    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1767715584/AuraGem_v3/002_00_o06g12.png"
 }

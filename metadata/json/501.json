@@ -3,26 +3,25 @@
     "description": "A unique RoundBrilliant cut gemstone in Ruby color.",
     "attributes": [
         {
-            "trait_type": "Cut",
-            "value": "Brilliant"
+            "trait_type": "Category",
+            "value": "Ring"
         },
         {
-            "trait_type": "Color",
+            "trait_type": "Gem",
             "value": "Ruby"
         },
         {
-            "trait_type": "Carat",
-            "value": 10
+            "trait_type": "Color",
+            "value": "#E0115F"
         },
         {
-            "trait_type": "Clarity",
-            "value": "Flawless"
+            "trait_type": "Cut",
+            "value": "Brilliant"
         },
         {
             "trait_type": "Rarity",
             "value": "5"
         }
     ],
-    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1762955637/AuraGem/001_05_j2z9cx.png",
-    "animation_url": "https://gemfi-three-js.vercel.app/?modelIndex=0&color=%23E0115F"
+    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1767715839/AuraGem_v3/018_01_z4dovv.png"
 }

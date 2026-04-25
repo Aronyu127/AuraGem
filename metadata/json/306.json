@@ -3,26 +3,25 @@
     "description": "A unique Pear cut gemstone in Ruby color.",
     "attributes": [
         {
-            "trait_type": "Cut",
-            "value": "Pear"
+            "trait_type": "Category",
+            "value": "Necklace"
         },
         {
-            "trait_type": "Color",
+            "trait_type": "Gem",
             "value": "Ruby"
         },
         {
-            "trait_type": "Carat",
-            "value": 10
+            "trait_type": "Color",
+            "value": "#E0115F"
         },
         {
-            "trait_type": "Clarity",
-            "value": "Flawless"
+            "trait_type": "Cut",
+            "value": "Pear"
         },
         {
             "trait_type": "Rarity",
             "value": "3"
         }
     ],
-    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1763045858/AuraGem/006_03_y9mxyd.png",
-    "animation_url": "https://gemfi-three-js.vercel.app/?modelIndex=5&color=%23E0115F"
+    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1767715726/AuraGem_v3/012_00_ci6kpf.png"
 }

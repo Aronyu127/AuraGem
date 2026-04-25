@@ -1,0 +1,27 @@
+{
+    "name": "AuraGem #328",
+    "description": "A unique Radiant cut gemstone in Sapphire color.",
+    "attributes": [
+        {
+            "trait_type": "Category",
+            "value": "Ring"
+        },
+        {
+            "trait_type": "Gem",
+            "value": "Sapphire"
+        },
+        {
+            "trait_type": "Color",
+            "value": "#0F52BA"
+        },
+        {
+            "trait_type": "Cut",
+            "value": "Radiant"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "3"
+        }
+    ],
+    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1767715766/AuraGem_v3/014_02_ifzxef.png"
+}
