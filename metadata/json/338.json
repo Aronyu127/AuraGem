@@ -1,6 +1,6 @@
 {
-    "name": "AuraGem #338",
-    "description": "A unique Cusion cut gemstone in Sapphire color.",
+    "name": "Crystal Soul",
+    "description": "A unique Emerald cut gemstone in Sapphire color.",
     "attributes": [
         {
             "trait_type": "Category",
@@ -11,17 +11,17 @@
             "value": "Sapphire"
         },
         {
-            "trait_type": "Color",
-            "value": "#0F52BA"
+            "trait_type": "Code",
+            "value": "AU1-SSR-038"
         },
         {
             "trait_type": "Cut",
-            "value": "Cusion"
+            "value": "Emerald"
         },
         {
-            "trait_type": "Rarity",
+            "trait_type": "Tier",
             "value": "3"
         }
     ],
-    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1767715769/AuraGem_v3/014_03_qfezxt.png"
+    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1777195359/AuraGem_v4/038_03_eqp8uv.png"
 }

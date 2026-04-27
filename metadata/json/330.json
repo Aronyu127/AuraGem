@@ -1,6 +1,6 @@
 {
-    "name": "AuraGem #330",
-    "description": "A unique Trilliant cut gemstone in Sapphire color.",
+    "name": "High Star-Key",
+    "description": "A unique RoundBrilliant cut gemstone in Topaz color.",
     "attributes": [
         {
             "trait_type": "Category",
@@ -8,20 +8,20 @@
         },
         {
             "trait_type": "Gem",
-            "value": "Sapphire"
+            "value": "Topaz"
         },
         {
-            "trait_type": "Color",
-            "value": "#0F52BA"
+            "trait_type": "Code",
+            "value": "AU1-SSR-030"
         },
         {
             "trait_type": "Cut",
-            "value": "Trilliant"
+            "value": "Brilliant"
         },
         {
-            "trait_type": "Rarity",
+            "trait_type": "Tier",
             "value": "3"
         }
     ],
-    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1767715773/AuraGem_v3/014_04_ft1yjr.png"
+    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1777195311/AuraGem_v4/030_03_zjhxbm.png"
 }

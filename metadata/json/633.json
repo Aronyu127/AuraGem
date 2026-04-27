@@ -1,6 +1,6 @@
 {
-    "name": "AuraGem #633",
-    "description": "A unique Trilliant cut gemstone in Sapphire color.",
+    "name": "Sylvan Whisper",
+    "description": "A unique Pear cut gemstone in Emerald color.",
     "attributes": [
         {
             "trait_type": "Category",
@@ -8,20 +8,20 @@
         },
         {
             "trait_type": "Gem",
-            "value": "Sapphire"
+            "value": "Emerald"
         },
         {
-            "trait_type": "Color",
-            "value": "#0F52BA"
+            "trait_type": "Code",
+            "value": "AU1-MR-033"
         },
         {
             "trait_type": "Cut",
-            "value": "Trilliant"
+            "value": "Pear"
         },
         {
-            "trait_type": "Rarity",
+            "trait_type": "Tier",
             "value": "6"
         }
     ],
-    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1767715996/AuraGem_v3/024_06_itodtg.png"
+    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1777195337/AuraGem_v4/033_06_rscggi.png"
 }

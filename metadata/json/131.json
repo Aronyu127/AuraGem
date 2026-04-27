@@ -1,6 +1,6 @@
 {
-    "name": "AuraGem #131",
-    "description": "A unique Radiant cut gemstone in Sapphire color.",
+    "name": "Amber Chronos",
+    "description": "A unique Oval cut gemstone in Topaz color.",
     "attributes": [
         {
             "trait_type": "Category",
@@ -8,20 +8,20 @@
         },
         {
             "trait_type": "Gem",
-            "value": "Sapphire"
+            "value": "Topaz"
         },
         {
-            "trait_type": "Color",
-            "value": "#0F52BA"
+            "trait_type": "Code",
+            "value": "AU1-R-031"
         },
         {
             "trait_type": "Cut",
-            "value": "Radiant"
+            "value": "Oval"
         },
         {
-            "trait_type": "Rarity",
+            "trait_type": "Tier",
             "value": "1"
         }
     ],
-    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1767715640/AuraGem_v3/007_03_jjlead.png"
+    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1777195315/AuraGem_v4/031_01_rhmifo.png"
 }

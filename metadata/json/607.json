@@ -1,5 +1,5 @@
 {
-    "name": "AuraGem #607",
+    "name": "Dawn Ring",
     "description": "A unique Marquis cut gemstone in Topaz color.",
     "attributes": [
         {
@@ -11,17 +11,17 @@
             "value": "Topaz"
         },
         {
-            "trait_type": "Color",
-            "value": "#E4A300"
+            "trait_type": "Code",
+            "value": "AU1-MR-007"
         },
         {
             "trait_type": "Cut",
             "value": "Marquis"
         },
         {
-            "trait_type": "Rarity",
+            "trait_type": "Tier",
             "value": "6"
         }
     ],
-    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1767715924/AuraGem_v3/022_03_t1lc1j.png"
+    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1777194783/AuraGem_v4/007_06_pkyxhz.png"
 }

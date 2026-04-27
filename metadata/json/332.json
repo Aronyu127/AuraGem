@@ -1,6 +1,6 @@
 {
-    "name": "AuraGem #332",
-    "description": "A unique Cusion cut gemstone in Sapphire color.",
+    "name": "Liquid Galaxy",
+    "description": "A unique Oval cut gemstone in Topaz color.",
     "attributes": [
         {
             "trait_type": "Category",
@@ -8,20 +8,20 @@
         },
         {
             "trait_type": "Gem",
-            "value": "Sapphire"
+            "value": "Topaz"
         },
         {
-            "trait_type": "Color",
-            "value": "#0F52BA"
+            "trait_type": "Code",
+            "value": "AU1-SSR-032"
         },
         {
             "trait_type": "Cut",
-            "value": "Cusion"
+            "value": "Oval"
         },
         {
-            "trait_type": "Rarity",
+            "trait_type": "Tier",
             "value": "3"
         }
     ],
-    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1767715769/AuraGem_v3/014_03_qfezxt.png"
+    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1777195330/AuraGem_v4/032_03_ia3gpj.png"
 }

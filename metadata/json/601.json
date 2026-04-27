@@ -1,5 +1,5 @@
 {
-    "name": "AuraGem #601",
+    "name": "Crimson Ring",
     "description": "A unique RoundBrilliant cut gemstone in Ruby color.",
     "attributes": [
         {
@@ -11,17 +11,17 @@
             "value": "Ruby"
         },
         {
-            "trait_type": "Color",
-            "value": "#E0115F"
+            "trait_type": "Code",
+            "value": "AU1-MR-001"
         },
         {
             "trait_type": "Cut",
             "value": "Brilliant"
         },
         {
-            "trait_type": "Rarity",
+            "trait_type": "Tier",
             "value": "6"
         }
     ],
-    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1769092417/AuraGem_v3/021_04_tudjfi.png"
+    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1777194751/AuraGem_v4/001_06_drqvom.png"
 }

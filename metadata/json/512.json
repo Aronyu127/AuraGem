@@ -1,5 +1,5 @@
 {
-    "name": "AuraGem #512",
+    "name": "Dawn Necklace",
     "description": "A unique Trilliant cut gemstone in Topaz color.",
     "attributes": [
         {
@@ -11,17 +11,17 @@
             "value": "Topaz"
         },
         {
-            "trait_type": "Color",
-            "value": "#E4A300"
+            "trait_type": "Code",
+            "value": "AU1-UR-046"
         },
         {
             "trait_type": "Cut",
             "value": "Trilliant"
         },
         {
-            "trait_type": "Rarity",
+            "trait_type": "Tier",
             "value": "5"
         }
     ],
-    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1767715869/AuraGem_v3/019_05_yy3dkb.png"
+    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1777194824/AuraGem_v4/012_05_fvn0fu.png"
 }

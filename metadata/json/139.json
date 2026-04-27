@@ -1,6 +1,6 @@
 {
-    "name": "AuraGem #139",
-    "description": "A unique Trilliant cut gemstone in Sapphire color.",
+    "name": "Azure Singularity",
+    "description": "A unique Emerald cut gemstone in Sapphire color.",
     "attributes": [
         {
             "trait_type": "Category",
@@ -11,17 +11,17 @@
             "value": "Sapphire"
         },
         {
-            "trait_type": "Color",
-            "value": "#0F52BA"
+            "trait_type": "Code",
+            "value": "AU1-R-039"
         },
         {
             "trait_type": "Cut",
-            "value": "Trilliant"
+            "value": "Emerald"
         },
         {
-            "trait_type": "Rarity",
+            "trait_type": "Tier",
             "value": "1"
         }
     ],
-    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1767715645/AuraGem_v3/007_05_ozqxfh.png"
+    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1777195365/AuraGem_v4/039_01_yq8hwk.png"
 }

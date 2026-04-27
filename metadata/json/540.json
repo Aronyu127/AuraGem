@@ -1,6 +1,6 @@
 {
-    "name": "AuraGem #540",
-    "description": "A unique Radiant cut gemstone in Sapphire color.",
+    "name": "Well of Gnosis",
+    "description": "A unique Pear cut gemstone in Sapphire color.",
     "attributes": [
         {
             "trait_type": "Category",
@@ -11,17 +11,17 @@
             "value": "Sapphire"
         },
         {
-            "trait_type": "Color",
-            "value": "#0F52BA"
+            "trait_type": "Code",
+            "value": "AU1-UR-060"
         },
         {
             "trait_type": "Cut",
-            "value": "Radiant"
+            "value": "Pear"
         },
         {
-            "trait_type": "Rarity",
+            "trait_type": "Tier",
             "value": "5"
         }
     ],
-    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1769092454/AuraGem_v3/021_01_ydfl1y.png"
+    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1777195378/AuraGem_v4/040_05_p8axrr.png"
 }

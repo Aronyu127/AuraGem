@@ -1,5 +1,5 @@
 {
-    "name": "AuraGem #403",
+    "name": "Crimson Necklace",
     "description": "A unique Emerald cut gemstone in Ruby color.",
     "attributes": [
         {
@@ -11,17 +11,17 @@
             "value": "Ruby"
         },
         {
-            "trait_type": "Color",
-            "value": "#E0115F"
+            "trait_type": "Code",
+            "value": "AU1-UR-003"
         },
         {
             "trait_type": "Cut",
             "value": "Emerald"
         },
         {
-            "trait_type": "Rarity",
+            "trait_type": "Tier",
             "value": "4"
         }
     ],
-    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1767715781/AuraGem_v3/015_00_nudadg.png"
+    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1777194757/AuraGem_v4/003_04_uc0hpj.png"
 }

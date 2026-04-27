@@ -1,6 +1,6 @@
 {
-    "name": "AuraGem #437",
-    "description": "A unique Radiant cut gemstone in Sapphire color.",
+    "name": "Deep Space Murmur",
+    "description": "A unique RoundBrilliant cut gemstone in Sapphire color.",
     "attributes": [
         {
             "trait_type": "Category",
@@ -11,17 +11,17 @@
             "value": "Sapphire"
         },
         {
-            "trait_type": "Color",
-            "value": "#0F52BA"
+            "trait_type": "Code",
+            "value": "AU1-UR-037"
         },
         {
             "trait_type": "Cut",
-            "value": "Radiant"
+            "value": "Brilliant"
         },
         {
-            "trait_type": "Rarity",
+            "trait_type": "Tier",
             "value": "4"
         }
     ],
-    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1767715831/AuraGem_v3/017_05_rapidp.png"
+    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1777195354/AuraGem_v4/037_04_vwurc8.png"
 }

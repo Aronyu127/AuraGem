@@ -1,27 +1,27 @@
 {
-    "name": "AuraGem #029",
-    "description": "A unique Trilliant cut gemstone in Sapphire color.",
+    "name": "Divine Volition",
+    "description": "A unique RoundBrilliant cut gemstone in Topaz color.",
     "attributes": [
         {
             "trait_type": "Category",
-            "value": "Earrings"
+            "value": "Ring"
         },
         {
             "trait_type": "Gem",
-            "value": "Sapphire"
+            "value": "Topaz"
         },
         {
-            "trait_type": "Color",
-            "value": "#0F52BA"
+            "trait_type": "Code",
+            "value": "AU1-N-029"
         },
         {
             "trait_type": "Cut",
-            "value": "Trilliant"
+            "value": "Brilliant"
         },
         {
-            "trait_type": "Rarity",
+            "trait_type": "Tier",
             "value": "0"
         }
     ],
-    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1767715598/AuraGem_v3/004_02_tnphmb.png"
+    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1777195298/AuraGem_v4/029_00_qfmmfg.png"
 }

@@ -1,5 +1,5 @@
 {
-    "name": "AuraGem #422",
+    "name": "Verdant Ring",
     "description": "A unique Radiant cut gemstone in Sapphire color.",
     "attributes": [
         {
@@ -11,17 +11,17 @@
             "value": "Sapphire"
         },
         {
-            "trait_type": "Color",
-            "value": "#0F52BA"
+            "trait_type": "Code",
+            "value": "AU1-UR-022"
         },
         {
             "trait_type": "Cut",
             "value": "Radiant"
         },
         {
-            "trait_type": "Rarity",
+            "trait_type": "Tier",
             "value": "4"
         }
     ],
-    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1767715831/AuraGem_v3/017_05_rapidp.png"
+    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1777194957/AuraGem_v4/022_04_dkgnem.png"
 }

@@ -1,5 +1,5 @@
 {
-    "name": "AuraGem #110",
+    "name": "Dawn Ring",
     "description": "A unique Radiant cut gemstone in Topaz color.",
     "attributes": [
         {
@@ -11,17 +11,17 @@
             "value": "Topaz"
         },
         {
-            "trait_type": "Color",
-            "value": "#E4A300"
+            "trait_type": "Code",
+            "value": "AU1-R-010"
         },
         {
             "trait_type": "Cut",
             "value": "Radiant"
         },
         {
-            "trait_type": "Rarity",
+            "trait_type": "Tier",
             "value": "1"
         }
     ],
-    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1769092444/AuraGem_v3/005_05_c4bw1t.png"
+    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1777194802/AuraGem_v4/010_01_obgm2g.png"
 }

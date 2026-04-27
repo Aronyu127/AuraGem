@@ -1,5 +1,5 @@
 {
-    "name": "AuraGem #613",
+    "name": "Azure Ring",
     "description": "A unique RoundBrilliant cut gemstone in Emerald color.",
     "attributes": [
         {
@@ -11,17 +11,17 @@
             "value": "Emerald"
         },
         {
-            "trait_type": "Color",
-            "value": "#50C878"
+            "trait_type": "Code",
+            "value": "AU1-MR-013"
         },
         {
             "trait_type": "Cut",
             "value": "Brilliant"
         },
         {
-            "trait_type": "Rarity",
+            "trait_type": "Tier",
             "value": "6"
         }
     ],
-    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1769092417/AuraGem_v3/023_02_ri3g3g.png"
+    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1777194828/AuraGem_v4/013_06_lskjm6.png"
 }

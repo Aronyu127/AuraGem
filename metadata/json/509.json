@@ -1,5 +1,5 @@
 {
-    "name": "AuraGem #509",
+    "name": "Dawn Necklace",
     "description": "A unique Asscher cut gemstone in Topaz color.",
     "attributes": [
         {
@@ -11,17 +11,17 @@
             "value": "Topaz"
         },
         {
-            "trait_type": "Color",
-            "value": "#E4A300"
+            "trait_type": "Code",
+            "value": "AU1-LR-005"
         },
         {
             "trait_type": "Cut",
             "value": "Asscher"
         },
         {
-            "trait_type": "Rarity",
+            "trait_type": "Tier",
             "value": "5"
         }
     ],
-    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1767715860/AuraGem_v3/019_02_wki35i.png"
+    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1777194799/AuraGem_v4/009_05_qgmwkn.png"
 }

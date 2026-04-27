@@ -1,5 +1,5 @@
 {
-    "name": "AuraGem #616",
+    "name": "Azure Ring",
     "description": "A unique Oval cut gemstone in Emerald color.",
     "attributes": [
         {
@@ -11,17 +11,17 @@
             "value": "Emerald"
         },
         {
-            "trait_type": "Color",
-            "value": "#50C878"
+            "trait_type": "Code",
+            "value": "AU1-MR-016"
         },
         {
             "trait_type": "Cut",
             "value": "Oval"
         },
         {
-            "trait_type": "Rarity",
+            "trait_type": "Tier",
             "value": "6"
         }
     ],
-    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1769092417/AuraGem_v3/023_05_hbpiep.png"
+    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1777194919/AuraGem_v4/016_06_veexjz.png"
 }

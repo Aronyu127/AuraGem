@@ -1,6 +1,6 @@
 {
-    "name": "AuraGem #629",
-    "description": "A unique Cusion cut gemstone in Sapphire color.",
+    "name": "Divine Volition",
+    "description": "A unique RoundBrilliant cut gemstone in Topaz color.",
     "attributes": [
         {
             "trait_type": "Category",
@@ -8,20 +8,20 @@
         },
         {
             "trait_type": "Gem",
-            "value": "Sapphire"
+            "value": "Topaz"
         },
         {
-            "trait_type": "Color",
-            "value": "#0F52BA"
+            "trait_type": "Code",
+            "value": "AU1-MR-029"
         },
         {
             "trait_type": "Cut",
-            "value": "Cusion"
+            "value": "Brilliant"
         },
         {
-            "trait_type": "Rarity",
+            "trait_type": "Tier",
             "value": "6"
         }
     ],
-    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1767715995/AuraGem_v3/024_05_nzxrya.png"
+    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1777195304/AuraGem_v4/029_06_tcow3j.png"
 }

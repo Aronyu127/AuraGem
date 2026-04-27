@@ -1,5 +1,5 @@
 {
-    "name": "AuraGem #611",
+    "name": "Dawn Earring",
     "description": "A unique Cusion cut gemstone in Topaz color.",
     "attributes": [
         {
@@ -11,17 +11,17 @@
             "value": "Topaz"
         },
         {
-            "trait_type": "Color",
-            "value": "#E4A300"
+            "trait_type": "Code",
+            "value": "AU1-MR-011"
         },
         {
             "trait_type": "Cut",
             "value": "Cusion"
         },
         {
-            "trait_type": "Rarity",
+            "trait_type": "Tier",
             "value": "6"
         }
     ],
-    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1769092415/AuraGem_v3/023_00_vtiv6d.png"
+    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1777194815/AuraGem_v4/011_06_yef22c.png"
 }

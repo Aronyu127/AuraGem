@@ -1,5 +1,5 @@
 {
-    "name": "AuraGem #506",
+    "name": "Crimson Necklace",
     "description": "A unique Pear cut gemstone in Ruby color.",
     "attributes": [
         {
@@ -11,17 +11,17 @@
             "value": "Ruby"
         },
         {
-            "trait_type": "Color",
-            "value": "#E0115F"
+            "trait_type": "Code",
+            "value": "AU1-LR-004"
         },
         {
             "trait_type": "Cut",
             "value": "Pear"
         },
         {
-            "trait_type": "Rarity",
+            "trait_type": "Tier",
             "value": "5"
         }
     ],
-    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1767715851/AuraGem_v3/018_06_uywssy.png"
+    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1777194780/AuraGem_v4/006_05_kz5kew.png"
 }

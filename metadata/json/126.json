@@ -1,6 +1,6 @@
 {
-    "name": "AuraGem #126",
-    "description": "A unique Cusion cut gemstone in Sapphire color.",
+    "name": "Crimson Veritas",
+    "description": "A unique RoundBrilliant cut gemstone in Ruby color.",
     "attributes": [
         {
             "trait_type": "Category",
@@ -8,20 +8,20 @@
         },
         {
             "trait_type": "Gem",
-            "value": "Sapphire"
+            "value": "Ruby"
         },
         {
-            "trait_type": "Color",
-            "value": "#0F52BA"
+            "trait_type": "Code",
+            "value": "AU1-R-026"
         },
         {
             "trait_type": "Cut",
-            "value": "Cusion"
+            "value": "Brilliant"
         },
         {
-            "trait_type": "Rarity",
+            "trait_type": "Tier",
             "value": "1"
         }
     ],
-    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1767715641/AuraGem_v3/007_04_p6smjo.png"
+    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1777195152/AuraGem_v4/026_01_mvvgxl.png"
 }

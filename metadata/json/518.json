@@ -1,5 +1,5 @@
 {
-    "name": "AuraGem #518",
+    "name": "Azure Necklace",
     "description": "A unique Pear cut gemstone in Emerald color.",
     "attributes": [
         {
@@ -11,17 +11,17 @@
             "value": "Emerald"
         },
         {
-            "trait_type": "Color",
-            "value": "#50C878"
+            "trait_type": "Code",
+            "value": "AU1-LR-010"
         },
         {
             "trait_type": "Cut",
             "value": "Pear"
         },
         {
-            "trait_type": "Rarity",
+            "trait_type": "Tier",
             "value": "5"
         }
     ],
-    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1767715886/AuraGem_v3/020_04_dmdxeo.png"
+    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1777194928/AuraGem_v4/018_05_ejw50m.png"
 }

@@ -1,5 +1,5 @@
 {
-    "name": "AuraGem #117",
+    "name": "Azure Earring",
     "description": "A unique Baguetee cut gemstone in Emerald color.",
     "attributes": [
         {
@@ -11,17 +11,17 @@
             "value": "Emerald"
         },
         {
-            "trait_type": "Color",
-            "value": "#50C878"
+            "trait_type": "Code",
+            "value": "AU1-R-017"
         },
         {
             "trait_type": "Cut",
             "value": "Baguetee"
         },
         {
-            "trait_type": "Rarity",
+            "trait_type": "Tier",
             "value": "1"
         }
     ],
-    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1767715626/AuraGem_v3/006_05_s3rdxq.png"
+    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1777194915/AuraGem_v4/017_01_ahwypx.png"
 }

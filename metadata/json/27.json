@@ -1,27 +1,27 @@
 {
-    "name": "AuraGem #027",
-    "description": "A unique Trilliant cut gemstone in Sapphire color.",
+    "name": "Crimson Obelisk",
+    "description": "A unique Asscher cut gemstone in Ruby color.",
     "attributes": [
         {
             "trait_type": "Category",
-            "value": "Necklace"
+            "value": "Ring"
         },
         {
             "trait_type": "Gem",
-            "value": "Sapphire"
+            "value": "Ruby"
         },
         {
-            "trait_type": "Color",
-            "value": "#0F52BA"
+            "trait_type": "Code",
+            "value": "AU1-N-027"
         },
         {
             "trait_type": "Cut",
-            "value": "Trilliant"
+            "value": "Asscher"
         },
         {
-            "trait_type": "Rarity",
+            "trait_type": "Tier",
             "value": "0"
         }
     ],
-    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1767715598/AuraGem_v3/004_02_tnphmb.png"
+    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1777195283/AuraGem_v4/027_00_wesvva.png"
 }

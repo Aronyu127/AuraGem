@@ -1,6 +1,6 @@
 {
-    "name": "AuraGem #234",
-    "description": "A unique Radiant cut gemstone in Sapphire color.",
+    "name": "Life Weaver",
+    "description": "A unique Pear cut gemstone in Emerald color.",
     "attributes": [
         {
             "trait_type": "Category",
@@ -8,20 +8,20 @@
         },
         {
             "trait_type": "Gem",
-            "value": "Sapphire"
+            "value": "Emerald"
         },
         {
-            "trait_type": "Color",
-            "value": "#0F52BA"
+            "trait_type": "Code",
+            "value": "AU1-SR-034"
         },
         {
             "trait_type": "Cut",
-            "value": "Radiant"
+            "value": "Pear"
         },
         {
-            "trait_type": "Rarity",
+            "trait_type": "Tier",
             "value": "2"
         }
     ],
-    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1767715703/AuraGem_v3/010_06_cqtyzr.png"
+    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1777195333/AuraGem_v4/034_02_snmalq.png"
 }

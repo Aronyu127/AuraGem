@@ -1,5 +1,5 @@
 {
-    "name": "AuraGem #505",
+    "name": "Crimson Earring",
     "description": "A unique Baguetee cut gemstone in Ruby color.",
     "attributes": [
         {
@@ -11,17 +11,17 @@
             "value": "Ruby"
         },
         {
-            "trait_type": "Color",
-            "value": "#E0115F"
+            "trait_type": "Code",
+            "value": "AU1-LR-003"
         },
         {
             "trait_type": "Cut",
             "value": "Baguetee"
         },
         {
-            "trait_type": "Rarity",
+            "trait_type": "Tier",
             "value": "5"
         }
     ],
-    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1767715850/AuraGem_v3/018_05_ujgcxx.png"
+    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1777194772/AuraGem_v4/005_05_l76moz.png"
 }

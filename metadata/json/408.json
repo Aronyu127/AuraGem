@@ -1,5 +1,5 @@
 {
-    "name": "AuraGem #408",
+    "name": "Dawn Earring",
     "description": "A unique Heart cut gemstone in Topaz color.",
     "attributes": [
         {
@@ -11,17 +11,17 @@
             "value": "Topaz"
         },
         {
-            "trait_type": "Color",
-            "value": "#E4A300"
+            "trait_type": "Code",
+            "value": "AU1-UR-008"
         },
         {
             "trait_type": "Cut",
             "value": "Heart"
         },
         {
-            "trait_type": "Rarity",
+            "trait_type": "Tier",
             "value": "4"
         }
     ],
-    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1767715792/AuraGem_v3/015_05_fzxyen.png"
+    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1777194793/AuraGem_v4/008_04_yoh3bv.png"
 }

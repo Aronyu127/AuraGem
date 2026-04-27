@@ -1,5 +1,5 @@
 {
-    "name": "AuraGem #302",
+    "name": "Crimson Earring",
     "description": "A unique Princess cut gemstone in Ruby color.",
     "attributes": [
         {
@@ -11,17 +11,17 @@
             "value": "Ruby"
         },
         {
-            "trait_type": "Color",
-            "value": "#E0115F"
+            "trait_type": "Code",
+            "value": "AU1-SSR-002"
         },
         {
             "trait_type": "Cut",
             "value": "Princess"
         },
         {
-            "trait_type": "Rarity",
+            "trait_type": "Tier",
             "value": "3"
         }
     ],
-    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1767715715/AuraGem_v3/011_03_bw9zzn.png"
+    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1777194750/AuraGem_v4/002_03_irxhja.png"
 }

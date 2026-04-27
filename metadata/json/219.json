@@ -1,5 +1,5 @@
 {
-    "name": "AuraGem #219",
+    "name": "Verdant Ring",
     "description": "A unique Marquis cut gemstone in Sapphire color.",
     "attributes": [
         {
@@ -11,17 +11,17 @@
             "value": "Sapphire"
         },
         {
-            "trait_type": "Color",
-            "value": "#0F52BA"
+            "trait_type": "Code",
+            "value": "AU1-SR-019"
         },
         {
             "trait_type": "Cut",
             "value": "Marquis"
         },
         {
-            "trait_type": "Rarity",
+            "trait_type": "Tier",
             "value": "2"
         }
     ],
-    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1767715695/AuraGem_v3/010_03_bsodhx.png"
+    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1777194933/AuraGem_v4/019_02_jfzd8s.png"
 }

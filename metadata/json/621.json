@@ -1,5 +1,5 @@
 {
-    "name": "AuraGem #621",
+    "name": "Verdant Necklace",
     "description": "A unique Asscher cut gemstone in Sapphire color.",
     "attributes": [
         {
@@ -11,17 +11,17 @@
             "value": "Sapphire"
         },
         {
-            "trait_type": "Color",
-            "value": "#0F52BA"
+            "trait_type": "Code",
+            "value": "AU1-MR-021"
         },
         {
             "trait_type": "Cut",
             "value": "Asscher"
         },
         {
-            "trait_type": "Rarity",
+            "trait_type": "Tier",
             "value": "6"
         }
     ],
-    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1767715984/AuraGem_v3/024_03_xeiwhp.png"
+    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1777194949/AuraGem_v4/021_06_crywax.png"
 }

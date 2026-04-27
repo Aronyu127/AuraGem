@@ -1,5 +1,5 @@
 {
-    "name": "AuraGem #415",
+    "name": "Azure Necklace",
     "description": "A unique Emerald cut gemstone in Emerald color.",
     "attributes": [
         {
@@ -11,17 +11,17 @@
             "value": "Emerald"
         },
         {
-            "trait_type": "Color",
-            "value": "#50C878"
+            "trait_type": "Code",
+            "value": "AU1-UR-015"
         },
         {
             "trait_type": "Cut",
             "value": "Emerald"
         },
         {
-            "trait_type": "Rarity",
+            "trait_type": "Tier",
             "value": "4"
         }
     ],
-    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1767715811/AuraGem_v3/016_05_z0zodg.png"
+    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1777194842/AuraGem_v4/015_04_k8i2ak.png"
 }

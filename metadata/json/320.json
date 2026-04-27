@@ -1,5 +1,5 @@
 {
-    "name": "AuraGem #320",
+    "name": "Verdant Earring",
     "description": "A unique Heart cut gemstone in Sapphire color.",
     "attributes": [
         {
@@ -11,17 +11,17 @@
             "value": "Sapphire"
         },
         {
-            "trait_type": "Color",
-            "value": "#0F52BA"
+            "trait_type": "Code",
+            "value": "AU1-SSR-020"
         },
         {
             "trait_type": "Cut",
             "value": "Heart"
         },
         {
-            "trait_type": "Rarity",
+            "trait_type": "Tier",
             "value": "3"
         }
     ],
-    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1767715761/AuraGem_v3/014_00_vuscda.png"
+    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1777194938/AuraGem_v4/020_03_tkjnmh.png"
 }

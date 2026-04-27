@@ -1,6 +1,6 @@
 {
-    "name": "AuraGem #136",
-    "description": "A unique Trilliant cut gemstone in Sapphire color.",
+    "name": "Spirit Eye",
+    "description": "A unique Pear cut gemstone in Emerald color.",
     "attributes": [
         {
             "trait_type": "Category",
@@ -8,20 +8,20 @@
         },
         {
             "trait_type": "Gem",
-            "value": "Sapphire"
+            "value": "Emerald"
         },
         {
-            "trait_type": "Color",
-            "value": "#0F52BA"
+            "trait_type": "Code",
+            "value": "AU1-R-036"
         },
         {
             "trait_type": "Cut",
-            "value": "Trilliant"
+            "value": "Pear"
         },
         {
-            "trait_type": "Rarity",
+            "trait_type": "Tier",
             "value": "1"
         }
     ],
-    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1767715645/AuraGem_v3/007_05_ozqxfh.png"
+    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1777195349/AuraGem_v4/036_01_xu8y0e.png"
 }

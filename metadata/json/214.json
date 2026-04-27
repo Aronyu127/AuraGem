@@ -1,5 +1,5 @@
 {
-    "name": "AuraGem #214",
+    "name": "Azure Earring",
     "description": "A unique Princess cut gemstone in Emerald color.",
     "attributes": [
         {
@@ -11,17 +11,17 @@
             "value": "Emerald"
         },
         {
-            "trait_type": "Color",
-            "value": "#50C878"
+            "trait_type": "Code",
+            "value": "AU1-SR-014"
         },
         {
             "trait_type": "Cut",
             "value": "Princess"
         },
         {
-            "trait_type": "Rarity",
+            "trait_type": "Tier",
             "value": "2"
         }
     ],
-    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1767715681/AuraGem_v3/009_05_h28fur.png"
+    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1777194836/AuraGem_v4/014_02_zmxklj.png"
 }

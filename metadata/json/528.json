@@ -1,6 +1,6 @@
 {
-    "name": "AuraGem #528",
-    "description": "A unique Radiant cut gemstone in Sapphire color.",
+    "name": "Rosy Rite",
+    "description": "A unique Asscher cut gemstone in Ruby color.",
     "attributes": [
         {
             "trait_type": "Category",
@@ -8,20 +8,20 @@
         },
         {
             "trait_type": "Gem",
-            "value": "Sapphire"
+            "value": "Ruby"
         },
         {
-            "trait_type": "Color",
-            "value": "#0F52BA"
+            "trait_type": "Code",
+            "value": "AU1-UR-054"
         },
         {
             "trait_type": "Cut",
-            "value": "Radiant"
+            "value": "Asscher"
         },
         {
-            "trait_type": "Rarity",
+            "trait_type": "Tier",
             "value": "5"
         }
     ],
-    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1769092454/AuraGem_v3/021_01_ydfl1y.png"
+    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1777195296/AuraGem_v4/028_05_ertedg.png"
 }

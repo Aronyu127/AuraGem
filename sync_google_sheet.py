@@ -31,12 +31,12 @@ DEFAULT_OUTPUT_DIR = SCRIPT_DIR / "metadata" / "json"
 # Required CSV columns (filter out extra columns)
 REQUIRED_COLUMNS = [
     'ID',
+    'Code',
     'Name',
     'Category',
     'Gem',
-    'Color',
     'Cut',
-    'Rarity',
+    'Tier',
     'Image',
 ]
 
@@ -174,15 +174,15 @@ def csv_to_json(csv_file, output_dir):
                 
                 try:
                     gem_id = row.get('ID', '').strip()
+                    code = row.get('Code', '').strip()
                     name = row.get('Name', '').strip()
                     category = row.get('Category', '').strip()
                     gem = row.get('Gem', '').strip()
-                    color_hex = row.get('Color', '').strip()
                     cut = row.get('Cut', '').strip()
-                    rarity = row.get('Rarity', '').strip()
+                    tier = row.get('Tier', '').strip()
                     image = row.get('Image', '').strip()
                     
-                    if not all([name, category, gem, color_hex, cut, rarity, image]):
+                    if not all([code, name, category, gem, cut, tier, image]):
                         print(f"⚠ Skipping row {gem_id}: Missing required fields")
                         skipped_count += 1
                         continue
@@ -202,16 +202,16 @@ def csv_to_json(csv_file, output_dir):
                                 "value": gem
                             },
                             {
-                                "trait_type": "Color",
-                                "value": color_hex
+                                "trait_type": "Code",
+                                "value": code
                             },
                             {
                                 "trait_type": "Cut",
                                 "value": cut
                             },
                             {
-                                "trait_type": "Rarity",
-                                "value": rarity
+                                "trait_type": "Tier",
+                                "value": tier
                             }
                         ],
                         "image": image

@@ -1,5 +1,5 @@
 {
-    "name": "AuraGem #123",
+    "name": "Verdant Earring",
     "description": "A unique Cusion cut gemstone in Sapphire color.",
     "attributes": [
         {
@@ -11,17 +11,17 @@
             "value": "Sapphire"
         },
         {
-            "trait_type": "Color",
-            "value": "#0F52BA"
+            "trait_type": "Code",
+            "value": "AU1-R-023"
         },
         {
             "trait_type": "Cut",
             "value": "Cusion"
         },
         {
-            "trait_type": "Rarity",
+            "trait_type": "Tier",
             "value": "1"
         }
     ],
-    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1767715641/AuraGem_v3/007_04_p6smjo.png"
+    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1777194958/AuraGem_v4/023_01_i4dqta.png"
 }

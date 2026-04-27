@@ -1,27 +1,27 @@
 {
-    "name": "AuraGem #037",
-    "description": "A unique Trilliant cut gemstone in Sapphire color.",
+    "name": "Deep Space Murmur",
+    "description": "A unique RoundBrilliant cut gemstone in Sapphire color.",
     "attributes": [
         {
             "trait_type": "Category",
-            "value": "Ring"
+            "value": "Necklace"
         },
         {
             "trait_type": "Gem",
             "value": "Sapphire"
         },
         {
-            "trait_type": "Color",
-            "value": "#0F52BA"
+            "trait_type": "Code",
+            "value": "AU1-N-037"
         },
         {
             "trait_type": "Cut",
-            "value": "Trilliant"
+            "value": "Brilliant"
         },
         {
-            "trait_type": "Rarity",
+            "trait_type": "Tier",
             "value": "0"
         }
     ],
-    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1767715598/AuraGem_v3/004_02_tnphmb.png"
+    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1777195357/AuraGem_v4/037_00_kcz5wd.png"
 }

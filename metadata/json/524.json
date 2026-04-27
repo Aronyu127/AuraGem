@@ -1,5 +1,5 @@
 {
-    "name": "AuraGem #524",
+    "name": "Verdant Necklace",
     "description": "A unique Trilliant cut gemstone in Sapphire color.",
     "attributes": [
         {
@@ -11,17 +11,17 @@
             "value": "Sapphire"
         },
         {
-            "trait_type": "Color",
-            "value": "#0F52BA"
+            "trait_type": "Code",
+            "value": "AU1-UR-052"
         },
         {
             "trait_type": "Cut",
             "value": "Trilliant"
         },
         {
-            "trait_type": "Rarity",
+            "trait_type": "Tier",
             "value": "5"
         }
     ],
-    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1769092415/AuraGem_v3/021_03_k4rpe3.png"
+    "image": "https://res.cloudinary.com/djpxpezra/image/upload/v1777195141/AuraGem_v4/024_05_bdme03.png"
 }
